@@ -13,10 +13,8 @@ DavidTodoCli es un ejemplo de una ToDo App CLI desarrollada en Ruby para la gest
 ruby main.rb
 ```
 
-
 ## Créditos
-- [David Lares](https://twitter.com/davidlares3)
+[David E Lares S](https://davidlares.com)
 
 ## Licencia
-
 [MIT](https://opensource.org/licenses/MIT)
